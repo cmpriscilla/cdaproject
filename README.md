@@ -22,3 +22,8 @@ For each method, we tuned and selected the best model, and their prediction resu
 
 # Conclusion
 We proposed a hypothesis that using first-order variables as a proxy of the directions of weather changes would be beneficial in predicting the next day’s rainfall. After exploration and assessment, our results and analysis suggest that this hypothesis only holds true when applied to a time-series model and when we combine the first-order variables with some other raw variables, not as a standalone. Adding the first-order variables may bring in mixed positive and negative impacts in the predictive performance of a non-time-series model.
+
+# Team Members
+- Kyle Thayer
+- Priscilla Mariani
+- Vikram Ramanujam
